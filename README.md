@@ -1,4 +1,4 @@
-# Event Bus
+# Event Bus for Python2.7
 <a href="https://travis-ci.org/seanpar203/event-bus"><img src="https://travis-ci.org/seanpar203/event-bus.svg?branch=master" alt="Build Status"></a>
 
 啊，看到这个哥们的event_bus很6，但自己项目用的是python2.7，改之。
